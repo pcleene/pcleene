@@ -68,4 +68,4 @@ Every public repo here is an **anonymized portfolio version** of real work. Clie
 ## 📫 Reach me
 
 - GitHub: [@pcleene](https://github.com/pcleene)
-<!-- Add your LinkedIn when ready, e.g.:  - LinkedIn: [Paul Cleenewerck](https://www.linkedin.com/in/your-handle) -->
+- LinkedIn: [Paul Cleenewerck](https://www.linkedin.com/in/paul-cleenewerck/)
